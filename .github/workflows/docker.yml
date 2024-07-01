@@ -1,0 +1,5 @@
+name: Docker
+on:
+workflow dispatch:
+push:
+branches:[main]
